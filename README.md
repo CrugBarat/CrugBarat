@@ -13,4 +13,4 @@ Here's some student projects and other stuff I've completed recently:
 - [Gym.](https://gym-app-sinatra.herokuapp.com/)
 - [Kenny's Patience](https://kennys-patience.herokuapp.com/)
 
-**Feel free to contact me or add me on [Linkedin](https://www.linkedin.com/in/craig-t-barratt/)**
+**Feel free to contact me via email or add me on [Linkedin](https://www.linkedin.com/in/craig-t-barratt/)**
