@@ -4,7 +4,7 @@
 
 I love to code. I'm happiest when coding. Code, code, code. Hook me up to the matrix and jam all code related data and information straight into my eyeballs.
 
-Here's some student projects and other stuff I've completed recently:
+Here's some live demos of student projects and other stuff I've completed recently:
 
 - [paulkmarshall.com](https://paulkmarshall.com/)
 - [Digital Skills Tool](https://erc-tool.herokuapp.com/) - if interested, contact for login details
