@@ -1,16 +1,18 @@
 ## Craig Barratt
 
-**Junior Dev - looking for remote work or in the Glasgow Area**
+**Junior Dev - looking for work**
 
 I love to code. I'm happiest when coding. Code, code, code. Hook me up to the matrix and jam all code related data and information straight into my eyeballs.
 
-Here's some student projects and other stuff I've completed recently - yup I'm a freshie so go easy on me:
+Here's some student projects and other stuff I've completed recently:
 
 - [paulkmarshall.com](https://paulkmarshall.com/)
-- [Digital Skills Tool](https://erc-tool.herokuapp.com/)*
+- [Digital Skills Tool](https://erc-tool.herokuapp.com/) *
 - [TONK.js](https://tonkjs.herokuapp.com/)
 - [QuizzA](https://quizza-trivia-game.herokuapp.com/)
 - [Gym.](https://gym-app-sinatra.herokuapp.com/)
 - [Kenny's Patience](https://kennys-patience.herokuapp.com/)
 
-(* if interested - contact for login deets)
+(* if interested - contact for login details)
+
+**Feel free to contact me or add me on [Linkedin](https://www.linkedin.com/in/craig-t-barratt/)**
