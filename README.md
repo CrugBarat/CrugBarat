@@ -7,7 +7,7 @@ I love to code. I'm happiest when coding. Code, code, code. Hook me up to the ma
 Here's some student projects and other stuff I've completed recently:
 
 - [paulkmarshall.com](https://paulkmarshall.com/)
-- [Digital Skills Tool](https://erc-tool.herokuapp.com/) - if interested - contact for login details
+- [Digital Skills Tool](https://erc-tool.herokuapp.com/) - if interested, contact for login details
 - [TONK.js](https://tonkjs.herokuapp.com/)
 - [QuizzA](https://quizza-trivia-game.herokuapp.com/)
 - [Gym.](https://gym-app-sinatra.herokuapp.com/)
