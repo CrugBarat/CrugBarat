@@ -13,4 +13,4 @@ Here's some student projects and other stuff I've completed recently - yup I'm a
 - [Gym.](https://gym-app-sinatra.herokuapp.com/)
 - [Kenny's Patience](https://kennys-patience.herokuapp.com/)
 
-* if interested - contact for login deets
+(* if interested - contact for login deets)
