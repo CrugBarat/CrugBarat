@@ -2,7 +2,9 @@
 
 **Junior Dev - looking for work**
 
-Eat, Sleep, Code, Repeat. Hook me up to the matrix and jam all things code straight into my eyeballs.
+Eat, Sleep, Code, Repeat. 
+
+I love to code. I'm happiest when coding. I eat code for breakfast. Code, code, code. Hook me up to the matrix and jam all things code straight into my eyeballs.
 
 Here's some live demos of student projects and other stuff I've completed recently:
 
