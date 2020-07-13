@@ -1,6 +1,6 @@
 # Eat, Sleep, Code, Repeat. 
 
-/- Hold the sleep
+\- Hold the sleep
 
 Here's some live demos of student projects and other stuff I've completed recently:
 
