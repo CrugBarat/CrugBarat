@@ -1,6 +1,4 @@
-## Craig Barratt
-
-Eat, Sleep, Code, Repeat. 
+# Eat, Sleep, Code, Repeat. 
 
 I love to code. I'm happiest when coding. I eat code for breakfast. Code, code, code. Hook me up to the matrix and jam all things code straight into my eyeballs.
 
