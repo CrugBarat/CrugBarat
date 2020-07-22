@@ -14,4 +14,4 @@ Here's some live demos of student projects and other stuff I've completed recent
 - [Kenny's Patience](https://kennys-patience.herokuapp.com/)
 - [Face API](https://face-api-app.herokuapp.com/)
 
-**Feel free to contact me via email or add me on [Linkedin](https://www.linkedin.com/in/craig-t-barratt/)**
+**Feel free to contact me via email**
