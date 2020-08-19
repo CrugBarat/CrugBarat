@@ -4,7 +4,7 @@
 
 Here's some live demos of stuff I've completed recently:
 
-- [R.E.M Locksmiths](https://remlocksmiths.co.uk/)
+- [remlocksmiths.co.uk](https://remlocksmiths.co.uk/)
 - [Toolstop Coding Challenge](https://toolstop-top40.herokuapp.com/)
 - [paulkmarshall.com](https://paulkmarshall.com/)
 - [Digital Skills Tool](https://erc-tool.herokuapp.com/) - username/password: erc-tool
