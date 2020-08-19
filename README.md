@@ -2,7 +2,7 @@
 
 \- Hold the sleep
 
-Here's some live demos of student projects and other stuff I've completed recently:
+Here's some live demos of stuff I've completed recently:
 
 - [R.E.M Locksmiths](https://remlocksmiths.co.uk/)
 - [Toolstop Coding Challenge](https://toolstop-top40.herokuapp.com/)
