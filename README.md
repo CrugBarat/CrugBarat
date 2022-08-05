@@ -4,7 +4,6 @@
 
 Here's some live demos of stuff I've done in my spare time:
 
-- [remlocksmiths.co.uk](https://remlocksmiths.co.uk/)
 - [paulkmarshall.com](https://paulkmarshall.com/)
 - [Digital Skills Tool](https://erc-tool.herokuapp.com/) - username/password: erc-tool
 - [TONK.js](https://tonkjs.herokuapp.com/)
