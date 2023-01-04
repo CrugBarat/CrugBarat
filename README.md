@@ -1,4 +1,4 @@
 # Eat, Sleep, Code, Repeat. 
 
-\- Hold the sleep
+Hold the sleep
 
